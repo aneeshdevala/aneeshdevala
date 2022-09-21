@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/aneesh172" target="blank"><img src="https://img.shields.io/twitter/follow/aneesh172?logo=twitter&style=for-the-badge" alt="aneesh172" /></a> </p>
 
-- 🔭 I’m currently working on [MUSICA](https://github.com/aneeshdevala/MusicApp.git)
+- 🔭 I’m currently working on [CLIFFIX-video paltform](https://github.com/aneeshdevala/Cliffix-video-platform.git)
 
 - 🌱 I’m currently learning **Dart, Flutter**
 
