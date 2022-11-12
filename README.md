@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Dart, Flutter**
 
-- 👨‍💻 All of my projects are available at [https://aneeshdevala.github.io/Protfolio-Personalwebsite/]([https://myprotfolio-9076f.firebaseapp.com/](https://myprotfolio-9076f.firebaseapp.com/)
+- 👨‍💻 All of my projects are available at [https://myprotfolio-9076f.firebaseapp.com/]([https://myprotfolio-9076f.firebaseapp.com/](https://myprotfolio-9076f.firebaseapp.com/)
 
 - 💬 Ask me about **Dart , Flutter**
 
